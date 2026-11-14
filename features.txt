@@ -1,0 +1,18 @@
+Milestones:
+4pt
+
+All features:
+Easy:
+Sounds + background music 1pt
+Counting score 1pt
+hot-seat mp 1pt
+respawn-prot 1.5pt
+
+Medium:
+Welcome-screen 2.5pt
+Score-screen 2.5pt
+explosion 2pt
+recoil 2pt
+
+TOTAL POINTS:
+1 + 1 + 1 + 1.5 + 2.5 + 2.5 + 2 + 2 + 4 = 17.5 
