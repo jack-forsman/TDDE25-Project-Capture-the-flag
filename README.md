@@ -1,3 +1,27 @@
+# Capture the Flag
+
+Capture the Flag is a top-down tank game built with Python, Pygame, and
+Pymunk. Players drive tanks around maze-like maps, collect the central flag,
+and return it to their own base while trying to stop the opposing tanks with
+projectiles.
+
+The project supports both single-player mode, where the opposing tanks are
+controlled by an AI, and local hot-seat multiplayer for two players sharing a
+keyboard. It includes three selectable maps, physics-based movement and
+collisions, destructible wooden obstacles, recoil when firing, respawn
+protection, explosions, score tracking, sound effects, and background music.
+A round is won by scoring three points.
+
+## Controls
+
+| Action | Player 1 | Player 2 |
+| --- | --- | --- |
+| Move forward/backward | `Up` / `Down` | `W` / `S` |
+| Turn left/right | `Left` / `Right` | `A` / `D` |
+| Fire | `Enter` | `Space` |
+
+Use the menu to choose a game mode and map. Press `Escape` to exit.
+
 ## Getting started
 
 Clone this repo and then remove the `.git` folder:
