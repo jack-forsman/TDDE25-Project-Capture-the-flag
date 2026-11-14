@@ -44,11 +44,9 @@ source setup.sh
 It activates a python environment and ensure you have the required libraries. You can then start the game with:
 
 ```
-python3 ctf.py
+python3/python ctf.py
 ```
 
 If you want to change the library version or use other python libraries, you should modify the `setup.sh` file so that your teachers can easilly check your code.
 
 The environment will need to be activated in every new terminal that the project is run from. If using an IDE like VSCode it is recommended to [configure the interpreter](https://code.visualstudio.com/docs/python/environments#_select-and-activate-an-environment) for the project so that the environment is activated automatically.
-
-Next go to our [wiki](https://gitlab.liu.se/tdde25/ctf/wikis/home) and get started on the tutorials.
